@@ -1,12 +1,141 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
-</head>
-<body>
-    <h1>Hello World!</h1>
-</body>
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="style.css">
+
+    <title> Ada Apa Nih</title>
+    <link rel="icon" href="f-removebg-preview.png">
+  </head>
+  <body>
+    <nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+        <div class="container">
+          <a class="navbar-brand" style="font-size: 2em; font-family: Georgia, 'Times New Roman', Times, serif; " href="#">Website Fikri</a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="element-container">
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                <li class="nav-item">
+                    <a class="nav-link active" aria-current="page" href="https://www.instagram.com/mfikrin_/">Instagram</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://twitter.com/lionelfikri_">Twitter</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://www.linkedin.com/in/muhamad-fikri-nurohman-a10630117/">LinkedIn</a>
+                </li>
+                </ul>
+            </div>
+        </div>
+        </div>
+    </nav>
+
+    <div class="jumbotron jumbotron-fluid" style="background-color: #d4feff;">
+        <div class="container text-center">
+            <img src="kakCacaa.jpeg" alt="Kak Caca :D"  style="margin-top: 90px; width: 300px;" class="rounded-circle" >
+          <h1 class="display-4" style="margin-top: 10px;">Halo Kak Caca :D</h1>
+          <p>*izin ngambil foto nya heheee</p>
+          <p class="lead">Jadi kakak udah masuk ke website ada apa nih..."></p>
+          <p class="lead">Lewat website yang terlalu sederhana ini aku pengen nyampein kalo aku nyaman sama kakak hehehe. Aku ngerasa kakak bisa jadi temen ngobrol dan kakak yang ngasih banyak banget insight terutama buat aku yang ga terlalu banyak tahu tentang perkuliahan di STI. Jujur first impression aku ke kakak itu orangnya udah asik banget dan bisa bawa <em>good vibes</em> waktu lagi day wkwkwk. 
+          <p class="lead">Aku harap kita bisa kenal lebih deket lagi. Semangat kak jadi anak acara heehee, semangat juga bentar lagi masuk kuliah dan kembali dengan kekeosan keknya :) maju terus dan tetep jadi kak Caca yang riang gembira.
+          <p class="lead">Bu Reini beli salak (cakeuppp)</p>
+          <p class="lead">Bolehkah Fikri jadi adik asuh kakak :D</p>
+        </div>
+      </div>
+
+    <div class="col-12 text-center lead">
+        <div class="note mt-2">
+            *saran aku pilih yang paling kiri kak heheehe
+        </div>
+    </div>
+    <div class="container text-center">
+        <div class="col-12">
+            <div class="options">
+            <div class="row custom-row-options">
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4" style="margin-top: 5px; margin-bottom: 5px;">
+                    <button class="option-yes w-100" type="button" onclick="yes()">MAU!</button>
+                    </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4" style="margin-top: 5px; margin-bottom: 5px;">
+                    <button class="option-later w-100" type="button" onclick="later()">nanti ya jawabnya</button>
+                    </div>
+                <div class="col-12 col-sm-12 col-md-12 col-lg-4" style="margin-top: 5px; margin-bottom: 5px;">
+                    <div class="hehe">
+                        &emsp;EH KO PINDAH HEHE :D
+                    </div>
+                    <button class="option-no w-100" type="button">gamau ah :(</button>
+                </div>
+                </div>
+            </div>
+            </div>
+        </div>
+
+        <div id="messageYes" class="d-none">
+            <div class="col-12 border mt-3 border-info lead" style="font-size: medium;">
+                <div class="message-yes">
+                    <p class="lead">YEYY ASIKKK SENENG BANGET &#60;333</p>
+                    <p class="lead">Makasih banget udah milih pilihan yang paling bener :D artinya kita bisa makin deket lagi....</p>
+                    <p class="lead">*Maaf banget website nya kek masih jelek :( baru banget belajar html css js terus deadline banget ya WKWK jadi dikejar waktu juga, baru kepikiran bikin website pas kemarin soalnya kakkk. Oiya ada beberapa yang diambil dari bootstrap juga sih >,&#60</p>
+                </div>
+            </div>
+        </div>
+        
+        <div id="messageLater" class="d-none">
+            <div class="col-12 border mt-3 border-info">
+                <div class="message-later">
+                    <p class="lead">Hmm okee deh kak gapapa tapi jangan lupa pencet yang sebelah kiri juga ya :D Have a nice day!<p>
+                </div>
+            </div>
+        </div>
+        </div>
+    </div>
+    <nav class="navbar navbar-light bg-light">
+        <div class="container" style="left: 100px;">
+            <span class="navbar-text fixed-bottom navbar-expand-lg navbar-light bg-dark">
+                <img src="spott.png" alt="" class="spotify">
+                <a href="https://open.spotify.com/playlist/0YapkfA1PyXRaju7ZgS1o9?si=fd9e33d641114c7e" style="color: white; font-family: Georgia, 'Times New Roman', Times, serif;">Link apa lagi nih</a>
+            </span>
+        </div>
+    </nav>
+
+
+      <!-- BLANK SPACE-->
+      <div class="blank">
+    </div>
+    <!-- Optional JavaScript; choose one of the two! -->
+
+    <!-- Option 1: Bootstrap Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+    <script>
+        function show() {
+                var pesan = document.getElementById("pesan");
+                pesan.classList.remove("d-none");
+    
+            }
+        function yes() {
+            var pilihanMau =  document.getElementById("messageYes");
+            var pilihanNanti =  document.getElementById("messageLater");
+            if (pilihanMau.className == "d-none") {pilihanMau.classList.remove("d-none")} else {pilihanMau.classList.add("d-none")}
+            if (pilihanNanti.className != "d-none") {pilihanNanti.classList.add("d-none")}
+        }
+    
+        function later() {
+            var pilihanMau =  document.getElementById("messageYes");
+            var pilihanNanti =  document.getElementById("messageLater");
+            if (pilihanNanti.className == "d-none") {pilihanNanti.classList.remove("d-none")} else {pilihanNanti.classList.add("d-none")};
+            if (pilihanMau.className != "d-none") {pilihanMau.classList.add("d-none")}
+        }
+    </script>
+    <!-- Option 2: Separate Popper and Bootstrap JS -->
+    <!--
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js" integrity="sha384-eMNCOe7tC1doHpGoWe/6oMVemdAVTMs2xqW4mwXrXsW0L84Iytr2wi5v2QjrP/xp" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.min.js" integrity="sha384-cn7l7gDp0eyniUwwAZgrzD06kc/tftFf19TOAs2zVinnD/C7E91j9yyk5//jjpt/" crossorigin="anonymous"></script>
+    -->
+  </body>
 </html>
