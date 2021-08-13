@@ -1,0 +1,45 @@
+html{
+    background-color: #fff;
+}
+
+.element-container {
+    position: relative;
+    align-items: flex-end;
+}
+
+.option-yes, .option-later, .option-no {
+    background-color: #0099BE;
+    color: white;
+    border-radius: 8px;
+    border: 0px;
+    height: 40px;
+}
+.option-no {
+    position: relative;
+    z-index: 2;
+}
+.option-no:hover {
+    position: relative;
+    bottom: 150px;
+}
+
+.hehe {
+    position: absolute;
+    z-index: 1;
+    text-align: center;
+}
+
+.message {
+    padding-left: 100px;
+    padding-right: 15px;
+    position: relative;
+}
+
+.spotify{
+    width: 2%;
+}
+
+.blank {
+    width: 100%;
+    height: 200px;
+}
