@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-15T14:32:42.341Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="ns5GPX_NWSwoGfCvPino" version="15.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-15T17:57:02.499Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/94.0.4606.81 Safari/537.36" etag="_E9S4KsqCrmzRtotFkeI" version="15.5.1" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1209" dy="626" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="Dv8NxLVURrwp6jhn14WJ-33" value="Test bentuk kaki melalui scanner / input secara manual" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="660" y="60" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Dv8NxLVURrwp6jhn14WJ-37" value="User sudah mengetahui &lt;br&gt;bentuk kakinya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dv8NxLVURrwp6jhn14WJ-34" target="Dv8NxLVURrwp6jhn14WJ-39" edge="1">
+        <mxCell id="Dv8NxLVURrwp6jhn14WJ-37" value="Pengguna sudah mengetahui &lt;br&gt;bentuk kakinya" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="Dv8NxLVURrwp6jhn14WJ-34" target="Dv8NxLVURrwp6jhn14WJ-39" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="444.47058823529414" y="190" as="targetPoint" />
           </mxGeometry>
@@ -165,7 +165,7 @@
         <mxCell id="Dv8NxLVURrwp6jhn14WJ-82" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Dv8NxLVURrwp6jhn14WJ-92" source="Dv8NxLVURrwp6jhn14WJ-77" target="Dv8NxLVURrwp6jhn14WJ-81" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Dv8NxLVURrwp6jhn14WJ-32" value="Mengambil pesanan dan menghubungi user sampai terjadi kesepakatan" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Dv8NxLVURrwp6jhn14WJ-92" vertex="1">
+        <mxCell id="Dv8NxLVURrwp6jhn14WJ-32" value="Mengambil pesanan dan menghubungi pengguna sampai terjadi kesepakatan" style="shape=ext;rounded=1;html=1;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;" parent="Dv8NxLVURrwp6jhn14WJ-92" vertex="1">
           <mxGeometry x="726" y="50" width="154" height="100" as="geometry" />
         </mxCell>
         <mxCell id="Dv8NxLVURrwp6jhn14WJ-105" value="Perusahaan" style="swimlane;horizontal=0;strokeColor=#000000;strokeWidth=2;" parent="Dv8NxLVURrwp6jhn14WJ-91" vertex="1">
