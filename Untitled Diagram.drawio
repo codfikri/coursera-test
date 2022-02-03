@@ -1,23 +1,29 @@
-<mxfile host="app.diagrams.net" modified="2022-02-03T05:28:14.777Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="JNbIXVacDuqOhe3ZrvEj" version="15.9.1" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-03T05:29:25.215Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="k4gEm17AfrU3obj4u7Ng" version="15.9.1" type="github">
   <diagram name="Page-1" id="10a91c8b-09ff-31b1-d368-03940ed4cc9e">
-    <mxGraphModel dx="1635" dy="866" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1117" dy="669" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-1" value="Chief Information Officer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-1" value="Chief Information Officer" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="110" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-2" value="IT Strategy &amp;amp; Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-2" value="IT Strategy &amp;amp; Planning" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="190" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-3" value="IT Application and Development" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-3" value="IT Application and Development" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="400" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-4" value="IT Network and Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-4" value="IT Network and Infrastructure" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="610" y="240" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Q5Zfz-LT3-czmYyDNOEP-5" value="" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="820" y="240" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O21o4jydOflD0PQ3VpW8-1" value="IT Strategy &amp;amp; Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="365" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="O21o4jydOflD0PQ3VpW8-2" value="IT Strategy &amp;amp; Planning" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="450" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
